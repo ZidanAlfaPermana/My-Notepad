@@ -8,6 +8,7 @@
 
 <h3>📱 Menggunakan State Management Provider</h3>
 <p>Aplikasi Notepad ini menggunakan Provider sebagai solusi manajemen state.</p>
+
 ```dart
 class NoteProvider with ChangeNotifier {
   final List<Note> _notes = [];
