@@ -20,7 +20,7 @@ class NoteProvider with ChangeNotifier {
 
   void addNote(Note newNote) {
     _notes.add(newNote);
-    notifyListeners(); // Memberi tahu widget bahwa state telah berubah:cite[5]
+    notifyListeners();
   }
 
   void deleteNote(int id) {
