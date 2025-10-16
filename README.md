@@ -39,3 +39,12 @@ class NoteProvider with ChangeNotifier {
 ```
 
 <h3>📷 Pictures</h3>
+
+<h5>Home Page</h5>
+<img src="foto/home.png" alt="Home Page" />
+
+<h5>Input Page</h5>
+<img src="foto/input.png" alt="Input Page" />
+
+<h5>Notepad Page</h5>
+<img src="foto/browse.png" alt="Notepad Page" />
